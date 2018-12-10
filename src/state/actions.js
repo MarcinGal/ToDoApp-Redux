@@ -1,4 +1,3 @@
-// import { TOGGLE_TODO, SET_VISIBILITY_FILTER } from "../actions";
 
 export const ADD_TODO = 'ADD_TODO'
 export const TOGGLE_TODO = 'TOGGLE_TODO'
